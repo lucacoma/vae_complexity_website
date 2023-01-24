@@ -1,5 +1,5 @@
 
-##Complexity Generation Examples:
+## Complexity Generation Examples:
 * Starting Chord: Cmin|Gmaj|Cmin|Fmin|Cmin
 
 ### CVAE
@@ -43,35 +43,35 @@ Your browser does not support the audio element.
 * Complexity Class (1) : Cmin|Gmaj|G#maj|G7_Cmin
 
 <audio controls>
-<source src="data/audio/cvae/RVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Gmaj_G#maj_G7_Cmin_CC:_0.wav" type="audio/mpeg">
+<source src="data/audio/rvae/RVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Gmaj_G#maj_G7_Cmin_CC:_0.wav" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
 * Complexity Class (2) : Cmin|Gmaj|Cmin|G7|Cmin
 
 <audio controls>
-<source src="data/audio/cvae/RVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Gmaj_Cmin_G7_Cmin_CC:_1.wav" type="audio/mpeg">
+<source src="data/audio/rvae/RVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Gmaj_Cmin_G7_Cmin_CC:_1.wav" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
 * Complexity Class (3) : Cmin|Gmaj|F#7|B7|Cmin
 
 <audio controls>
-<source src="data/audio/cvae/RVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Gmaj_F#7_B7_Cmin_CC:_3.wav" type="audio/mpeg">
+<source src="data/audio/rvae/RVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Gmaj_F#7_B7_Cmin_CC:_3.wav" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
 * Complexity Class (4) : Cmin|Gmaj|F#7|F7|Cmin
 
 <audio controls>
-<source src="data/audio/cvae/CVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Gmaj_F#7_F7_Cmin_CC:_3.wav" type="audio/mpeg">
+<source src="data/audio/rvae/CVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Gmaj_F#7_F7_Cmin_CC:_3.wav" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
 * Complexity Class (5) : Cmin|Emin|A7|F#7|Cmin
 
 <audio controls>
-<source src="data/audio/cvae/RVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Emin_A7_F#7_Cmin_CC:_4.wav" type="audio/mpeg">
+<source src="data/audio/rvae/RVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Emin_A7_F#7_Cmin_CC:_4.wav" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
