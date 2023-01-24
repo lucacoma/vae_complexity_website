@@ -1,4 +1,83 @@
 
+##Complexity Generation Examples:
+* Starting Chord: Cmin|Gmaj|Cmin|Fmin|Cmin
+
+### CVAE
+* Complexity Class (1) : Cmin|Gmaj|Cmin|Fmin|Cmin
+
+<audio controls>
+<source src="data/audio/cvae/CVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Gmaj_Cmin_Fmin_Cmin_CC:_0.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+* Complexity Class (2) : Cmin|Gmaj|C7|Fmin|Cmin
+
+<audio controls>
+<source src="data/audio/cvae/CVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Gmaj_C7_Fmin_Cmin_CC:_1.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+* Complexity Class (3) : Cmin|Gmaj|A7|Fmaj|Cmin
+
+<audio controls>
+<source src="data/audio/cvae/CVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Gmaj_A7_Fmaj_Cmin_CC:_2.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+* Complexity Class (4) : Cmin|Gmaj|F#7|F7|Cmin
+
+<audio controls>
+<source src="data/audio/cvae/CVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Gmaj_F#7_F7_Cmin_CC:_3.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+* Complexity Class (5) : Cmin|Emin|Emin|Fmaj|Cmin
+
+<audio controls>
+<source src="data/audio/cvae/CVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Emin_Emin_Fmaj_Cmin_CC:_4.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+### RVAE
+
+* Complexity Class (1) : Cmin|Gmaj|G#maj|G7_Cmin
+
+<audio controls>
+<source src="data/audio/cvae/RVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Gmaj_G#maj_G7_Cmin_CC:_0.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+* Complexity Class (2) : Cmin|Gmaj|Cmin|G7|Cmin
+
+<audio controls>
+<source src="data/audio/cvae/RVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Gmaj_Cmin_G7_Cmin_CC:_1.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+* Complexity Class (3) : Cmin|Gmaj|F#7|B7|Cmin
+
+<audio controls>
+<source src="data/audio/cvae/RVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Gmaj_F#7_B7_Cmin_CC:_3.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+* Complexity Class (4) : Cmin|Gmaj|F#7|F7|Cmin
+
+<audio controls>
+<source src="data/audio/cvae/CVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Gmaj_F#7_F7_Cmin_CC:_3.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+* Complexity Class (5) : Cmin|Emin|A7|F#7|Cmin
+
+<audio controls>
+<source src="data/audio/cvae/RVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Emin_A7_F#7_Cmin_CC:_4.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+
+
+
 ## Dataset
 
 * Complexity Class 1 (1) : Cmaj|Fmaj|Cmaj|Fmaj|Cmaj
