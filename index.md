@@ -1,7 +1,7 @@
 
 ## Dataset
 
-* Complexity Class 1 (1): Cmaj|Fmaj|Cmaj|Fmaj|Cmaj
+* Complexity Class 1 (1) : Cmaj|Fmaj|Cmaj|Fmaj|Cmaj
 <audio controls>
 <source src="data/audio/dataset/Cmaj_Fmaj_Cmaj_Fmaj_Cmaj_COMPLEXITY:_0.wav
 " type="audio/mpeg">
