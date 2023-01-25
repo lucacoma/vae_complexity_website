@@ -30,6 +30,11 @@ Your browser does not support the audio element.
 <source src="data/audio/cvae/CVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Gmaj_F#7_F7_Cmin_CC:_3.wav" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
+<audio controls>
+<source src="data/audio/cvae/CVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Gmaj_F#7_F7_Cmin_CC:_3.wav" type="audio/mpeg">
+             data/audio/cvae/CVAE_SC:_Cmin_Gmaj_Cmin_Fmin_Cmin_EC:_Cmin_Gmaj_F#7_F7_Cmin_CC:_3.wav
+Your browser does not support the audio element.
+</audio>
 
 * Complexity Class (5) : Cmin|Emin|Emin|Fmaj|Cmin
 
