@@ -1,7 +1,7 @@
 
 ## CVAE
-![alt text](images/CVAE_architecture.png "Schematic representation of CVAE architecture")
+![alt text](data/image/CVAE_architecture.png "Schematic representation of CVAE architecture")
 
 
 ## RVAE
-![alt text](images/RVAE_architecture.png "Schematic representation of RVAE architecture")
+![alt text](data/image/RVAE_architecture.png "Schematic representation of RVAE architecture")
