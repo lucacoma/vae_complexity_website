@@ -1,4 +1,7 @@
 
+Details relative to the CVAE and RVAE architectures can be found at the following [link](architectures.md)
+
+
 ## Complexity Generation Examples:
 * Starting Chord: Cmin|Gmaj|Cmin|Fmin|Cmin
 
